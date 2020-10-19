@@ -1,0 +1,3 @@
+getLaserSetting = (string) => {
+  return "OFF";
+};
